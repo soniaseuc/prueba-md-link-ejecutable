@@ -1,0 +1,22 @@
+{
+  "name": "md-links",
+  "version": "1.0.0",
+  "description": "prueba del ejecutable de md-links",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniaseuc/prueba-md-link-ejecutable.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "sonia seuc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniaseuc/prueba-md-link-ejecutable/issues"
+  },
+  "homepage": "https://github.com/soniaseuc/prueba-md-link-ejecutable#readme"
+}
